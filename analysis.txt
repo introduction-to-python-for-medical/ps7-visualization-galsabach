@@ -1,1 +1,11 @@
+Analysis of my scatter Plot: class vs Malic_acid
+The scatter plot shows how Malic_acid values change across three classes:
 
+Class #1: Values are very close between 1 and 2.
+
+Class #2: Values are more spread out, in the range of 1 to 6.
+
+Class #3: Similar to Class 2 but more densely clustered above 3.
+my Insights:
+The relationship is non-linear, with clear clustering for each class.
+we can understand from this that  Malic_acid can help distinguish between classes and may be useful for future classification tasks.
